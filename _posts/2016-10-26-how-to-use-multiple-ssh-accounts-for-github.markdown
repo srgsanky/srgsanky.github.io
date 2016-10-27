@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to use multiple ssh accounts for Github?"
-date:   2016-10-26 23:53:00 -0700
+date:   2016-10-26
 categories: ssh github
 ---
 Sometimes, you want to use multiple ssh accounts - say, one for [Github](http://github.com) and others for some other websites.

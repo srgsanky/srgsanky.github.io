@@ -77,9 +77,19 @@ Based on [jekyll toc markdown](http://www.seanbuscay.com/blog/jekyll-toc-markdow
 {:toc}
 </pre>
 
+### How to use images in a post?
+Follow [including and managing images in jekyll](https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html) . Make sure to store your images under ``assets -> posts -> YYYY-MM-DD-post-name->image.png``. You can include your images using
+
+```
+{% raw %}
+{% include image name="image.png" caption="Some caption" %}
+{% endraw %}
+```
+
 ## References
 * [Github article - settting up your github pages site locally with jekyll](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
 * [How to escape liquid template tags?](http://stackoverflow.com/a/5866429)
 * [How to escape double curly braces?](http://stackoverflow.com/a/24102537)
 * [Wordpress's markdown quick reference](https://en.support.wordpress.com/markdown-quick-reference/)
-* [jekyll toc markdown](http://www.seanbuscay.com/blog/jekyll-toc-markdown/)
+* [Jekyll toc markdown](http://www.seanbuscay.com/blog/jekyll-toc-markdown/)
+* [Including and managing images in jekyll](https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html)

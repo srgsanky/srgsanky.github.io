@@ -11,7 +11,9 @@ ruby RUBY_VERSION
 # Happy Jekylling!
 gem "jekyll", "3.6.2"
 
-# Use modernist theme
+# Use modernist theme.
+# https://pages-themes.github.io/modernist/
+# https://github.com/pages-themes/modernist
 gem "jekyll-theme-modernist"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

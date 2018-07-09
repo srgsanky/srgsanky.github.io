@@ -50,7 +50,7 @@ Before you attempt to push the code, make sure to register the newly created ssh
 
 Now when you push the code from this repository it will try to push to `github.com-john` which will be intercepted by the ssh agent. The ssh agent will overwrite the hostname to be `github.com` and use the ssh key stored in `~/.ssh/id_rsa_for_github`.
 
-{% include image name="Multiple ssh account for github.jpeg" %}
+![Illustration of using multiple ssh accounts with git]({{ "/assets/images/2016-10-26-how-to-use-multiple-ssh-accounts-for-github/Multiple ssh account for github.jpeg" | absolute_url }})
 
 ### Recap
 * Create ssh keys (and register these keys with Github)

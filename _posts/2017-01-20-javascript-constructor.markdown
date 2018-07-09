@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "How do constructors work in Javascript?"
 date:   2017-01-20
 categories: javascript

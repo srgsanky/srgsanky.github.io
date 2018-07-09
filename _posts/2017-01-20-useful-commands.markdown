@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Useful commands"
 date:   2017-01-20
 categories: shell bash git vim

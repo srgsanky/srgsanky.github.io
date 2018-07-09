@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Omnigraffle tips"
 date:   2016-11-06
 categories: omnigraffle

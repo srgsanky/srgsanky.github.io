@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "How to use multiple ssh accounts for Github?"
 date:   2016-10-26
 categories: ssh github

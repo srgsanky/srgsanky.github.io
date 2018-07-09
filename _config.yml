@@ -14,7 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sankar's Personal Blog
-description: > # Sankar's personal blog where Sankar can keep write down stuff rather than carrying it in his brain.
+description: # Sankar's personal blog where Sankar can keep write down stuff rather than carrying it in his brain.
+show_downloads: false
+show_repository_url: false
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site
 github_username:  srgsanky

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "How to use jekyll?"
 date:   2016-10-29
 categories: jekyll

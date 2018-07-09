@@ -22,4 +22,4 @@ repository: srgsanky/srgsanky.github.io
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-modernist

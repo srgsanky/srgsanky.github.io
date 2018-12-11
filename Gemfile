@@ -9,7 +9,7 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.6.2"
+gem "jekyll", ">= 3.6.3"
 
 # Use modernist theme.
 # https://pages-themes.github.io/modernist/

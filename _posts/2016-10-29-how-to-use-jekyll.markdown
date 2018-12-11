@@ -14,6 +14,16 @@ Follow the [Github article](https://help.github.com/articles/setting-up-your-git
 ### One time installs
 * Install `ruby`
 * Install `bundler`
+You might get permission error when running
+```
+gem install bundler
+```
+Do not use sudo. Instead, install bundler to your home directory (https://jekyllrb.com/docs/installation/macos/).
+
+```
+gem install --user-install bundler
+```
+
 
 ### Steps for every new jekyll site you create
 * Create a local repository for your jekyll site.
